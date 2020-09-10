@@ -3,3 +3,5 @@ web
 copywriting
 foto
 membuat pola ads
+pola iklan
+pola pembiayaan
