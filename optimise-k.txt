@@ -2,3 +2,4 @@ hasstag
 web
 copywriting
 foto
+membuat pola ads
