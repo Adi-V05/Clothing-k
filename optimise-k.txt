@@ -3,5 +3,6 @@ web
 copywriting
 foto
 membuat pola ads
+coba-pola-ads
 jadwal ads
 biaya ads
