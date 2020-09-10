@@ -1,4 +1,6 @@
 Membuat Pola
 -kain
--baju
 membuat pola produksi
+membuat pola logistik
+membuat pola distribusi
+
